@@ -11,5 +11,8 @@ My project
 
 [Shop](https://datocampbell.github.io/shop/ "Internet")
 
+[Верстка Beauty](https://datocampbell.github.io/Beauty/ "Beauty")
+
+
 
 
