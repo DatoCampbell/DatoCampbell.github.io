@@ -7,3 +7,6 @@ My project
 
 [Вертска It Studio](https://datocampbell.github.io/ITstudio/index.html "ITstudio")
 
+[Prometheus Course](https://datocampbell.github.io/prometheuscourse/main.html "Prometheus Course")
+
+
