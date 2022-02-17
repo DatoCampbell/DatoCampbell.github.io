@@ -9,7 +9,7 @@ My project
 
 [Prometheus Course](https://datocampbell.github.io/prometheuscourse/main.html "Prometheus Course")
 
-[Shop](https://datocampbell.github.io/shop/ "Internet")
+[Верстка Online Shop](https://datocampbell.github.io/shop/ "Online")
 
 [Верстка Beauty](https://datocampbell.github.io/Beauty/ "Beauty")
 
